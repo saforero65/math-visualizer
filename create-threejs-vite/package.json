@@ -1,0 +1,32 @@
+{
+    "name": "create-threejs-vite",
+    "version": "1.0.0",
+    "description": "CLI para crear proyectos Three.js con Vite",
+    "type": "module",
+    "bin": {
+        "create-threejs-vite": "./bin/cli.js"
+    },
+    "files": [
+        "bin",
+        "templates"
+    ],
+    "scripts": {
+        "test": "node bin/cli.js"
+    },
+    "keywords": [
+        "threejs",
+        "three.js",
+        "vite",
+        "cli",
+        "scaffold",
+        "3d",
+        "webgl"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.3.0",
+        "inquirer": "^9.2.23",
+        "ora": "^8.0.1"
+    }
+}
