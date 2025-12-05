@@ -8,8 +8,8 @@ Hacer las matemáticas más accesibles y visualmente atractivas a través de vis
 
 ## 📂 Proyectos
 
-| Proyecto | Descripción | Demo |
-|----------|-------------|------|
+| Proyecto      | Descripción                                                                     | Demo       |
+| ------------- | ------------------------------------------------------------------------------- | ---------- |
 | [π (Pi)](/pi) | Visualización de cómo los polígonos convergen a un círculo y luego a una esfera | [Ver](/pi) |
 
 ## 🛠️ Tecnologías
@@ -46,4 +46,4 @@ MIT
 
 ---
 
-*Hecho con 💜 y curiosidad matemática*
+_Hecho con 💜 y curiosidad matemática_
